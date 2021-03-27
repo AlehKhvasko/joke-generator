@@ -1,5 +1,5 @@
 
-# joke-generator
+# Joke-Generator
 
 Projects build on voice API
 
